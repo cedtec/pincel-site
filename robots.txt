@@ -1,0 +1,43 @@
+User-agent: *
+
+# Permitir acesso às páginas principais
+Allow: /
+Allow: /*.php
+Allow: /js/
+Allow: /images/
+Allow: /styles.css
+
+# Bloquear áreas sensíveis e desnecessárias
+Disallow: /includes/
+Disallow: /vendor/
+Disallow: /html/
+Disallow: /.idea/
+Disallow: /.well-known/
+Disallow: /.tmb/
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /.env
+Disallow: /.gitignore
+Disallow: /teste.php
+Disallow: /enviar-email.php
+
+# Sitemap location
+Sitemap: https://pincelatomico.com.br/sitemap.xml
+
+# Configurações específicas para Google
+User-agent: Googlebot
+Allow: /
+
+# Configurações para Bing
+User-agent: Bingbot
+Allow: /
+
+# Bloquear bots maliciosos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
