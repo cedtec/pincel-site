@@ -86,11 +86,4 @@
         <priority>0.3</priority>
     </url>
 
-    <url>
-        <loc>https://pincelatomico.com.br/obrigado</loc>
-        <lastmod>2025-10-02</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
 </urlset>

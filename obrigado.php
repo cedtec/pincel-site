@@ -21,12 +21,20 @@
 
     <?php include 'includes/scripts.php'; ?>
     
-    <!-- Facebook Pixel - Form Submitted Event -->
+    <!-- Conversion Tracking -->
     <script>
+        // Facebook Pixel - Form Submitted Event
         if (typeof fbq !== 'undefined') {
             fbq('track', 'CompleteRegistration', {
                 content_name: 'FormularioEnviado',
                 content_category: 'Demonstracao'
+            });
+        }
+        
+        // Google Ads - Conversion Event
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'conversion', {
+                'send_to': 'AW-16595948995/YEv7CLSX9soaEMOryOk9'
             });
         }
     </script>

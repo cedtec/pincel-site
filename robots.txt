@@ -20,6 +20,7 @@ Disallow: /.env
 Disallow: /.gitignore
 Disallow: /teste.php
 Disallow: /enviar-email.php
+Disallow: /obrigado.php
 
 # Sitemap location
 Sitemap: https://pincelatomico.com.br/sitemap.xml

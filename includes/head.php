@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <!-- Google tag (gtag.js) with Consent Mode -->
+    <!-- Google tag (gtag.js) - Analytics & Ads -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPSTKSL5S7"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16595948995"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       
       // Set default consent mode
       gtag('consent', 'default', {
-        'analytics_storage': 'denied'
+        'analytics_storage': 'denied',
+        'ad_storage': 'denied'
       });
       
       gtag('js', new Date());
+      
+      // Google Analytics
       gtag('config', 'G-QPSTKSL5S7');
+      
+      // Google Ads
+      gtag('config', 'AW-16595948995');
     </script>
 
     <!-- Facebook Pixel Code -->

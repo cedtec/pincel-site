@@ -116,10 +116,11 @@
             localStorage.setItem('cookieConsent', 'accepted');
             cookieConsent.style.display = 'none';
             
-            // Enable Google Analytics
+            // Enable Google Analytics & Ads
             if (typeof gtag !== 'undefined') {
                 gtag('consent', 'update', {
-                    'analytics_storage': 'granted'
+                    'analytics_storage': 'granted',
+                    'ad_storage': 'granted'
                 });
             }
             
@@ -134,10 +135,11 @@
             localStorage.setItem('cookieConsent', 'declined');
             cookieConsent.style.display = 'none';
             
-            // Keep Google Analytics disabled
+            // Keep Google Analytics & Ads disabled
             if (typeof gtag !== 'undefined') {
                 gtag('consent', 'update', {
-                    'analytics_storage': 'denied'
+                    'analytics_storage': 'denied',
+                    'ad_storage': 'denied'
                 });
             }
             
