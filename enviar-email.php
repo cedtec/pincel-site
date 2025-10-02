@@ -51,7 +51,7 @@ if ($_POST) {
         $mail->Body = $corpo;
 
         $mail->send();
-        header('Location: obrigado.html');
+        header('Location: obrigado');
         exit;
     } catch (Exception $e) {
         echo "Erro ao enviar email: {$mail->ErrorInfo}";
