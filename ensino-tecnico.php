@@ -15,7 +15,7 @@
                         <a href="demonstracao" onclick="if(typeof fbq !== 'undefined') fbq('track', 'Lead', {content_name: 'Demonstracao'});" class="cta-button" style="background: white; color: #6204bf; padding: 15px 40px; font-size: 1.1rem; border-radius: 30px; text-decoration: none; font-weight: 600; display: inline-block; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 10px 25px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">Solicite uma Demonstração Gratuita</a>
                     </div>
                     <div style="flex-shrink: 0;">
-                        <img src="images/segmentos/ensino-técnico/aplicativo.png" alt="Aplicativo Móvel" style="width: 400px; height: 400px; object-fit: contain; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.3)); transform: scale(1.15);">
+                        <img src="images/segmentos/ensino tecnico/aplicativo.png" alt="Aplicativo Móvel" style="width: 400px; height: 400px; object-fit: contain; filter: drop-shadow(0 20px 40px rgba(0,0,0,0.3)); transform: scale(1.15);">
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                                 <p style="color: #4b5563; line-height: 1.6; margin-bottom: 25px;">AVA completo com videoaulas, avaliações online, apostilas digitais, fóruns e certificados digitais. <strong>Parceria com CEDTEC</strong> oferece acesso a mais de 400 disciplinas prontas com apostilas, videoaulas e questionários. <strong>Reduza custos</strong> e monte cursos completos rapidamente.</p>
                             </div>
                             <div class="card-image" style="flex: 1; width: 50%;">
-                                <img src="images/segmentos/ensino-técnico/plataforma ead.png" alt="Plataforma EAD" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
+                                <img src="images/segmentos/ensino tecnico/plataforma ead.png" alt="Plataforma EAD" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
                             </div>
                         </div>
                     </div>
@@ -41,7 +41,7 @@
                     <div class="segmento-card" style="background: white; border-radius: 16px; padding: 40px; box-shadow: 0 10px 30px rgba(30, 58, 138, 0.1); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 40px rgba(30, 58, 138, 0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 30px rgba(30, 58, 138, 0.1)'">
                         <div class="card-content" style="display: flex; align-items: center; gap: 40px;">
                             <div class="card-image" style="flex: 1; width: 50%;">
-                                <img src="images/segmentos/ensino-técnico/portal do aluno 2.png" alt="Portal Personalizado" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
+                                <img src="images/segmentos/ensino tecnico/portal do aluno 2.png" alt="Portal Personalizado" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
                             </div>
                             <div class="card-text" style="flex: 1; width: 50%;">
                                 <h3 style="color: #1e3a8a; font-size: 1.8rem; margin-bottom: 15px;">Portal Personalizado com sua Marca</h3>
@@ -59,7 +59,7 @@
                                 <p style="color: #4b5563; line-height: 1.6; margin-bottom: 25px;">Integra todas as necessidades: controle financeiro, acadêmico, matrículas, vestibulares, comunicação e AVA próprio. <strong>Elimine múltiplos sistemas</strong> e reduza custos operacionais. Painéis intuitivos e relatórios completos facilitam decisões estratégicas e otimizam o tempo da equipe.</p>
                             </div>
                             <div class="card-image" style="flex: 1; width: 50%;">
-                                <img src="images/segmentos/ensino-técnico/acompanhamento.png" alt="Acompanhamento Completo" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
+                                <img src="images/segmentos/ensino tecnico/acompanhamento.png" alt="Acompanhamento Completo" style="width: 100%; height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 8px 25px rgba(30, 58, 138, 0.15);">
                             </div>
                         </div>
                     </div>
